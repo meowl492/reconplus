@@ -42,10 +42,6 @@
 * **Metric & Imperial Preferences:** Toggle between kilometers/miles and height measurements (cm/ft-in) across the app.
 * **Blocked User Management:** Searchable block list to review and unblock profiles easily.
 
-### Nudges & Interaction Controls
-* **Instant Nudges:** Send quick profile nudges to get a user's attention.
-* **Toggle Preferences:** Enable or disable incoming nudge notifications directly in app settings.
-
 ---
 
 ## User Experience & Design
